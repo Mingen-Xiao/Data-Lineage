@@ -1,0 +1,36 @@
+1.Roles:	
+    · Be the leader to promote project progress and assign tasks.
+    · Be the major code contributor of the project.
+    · Be the presenter to show the project and explain code in every meeting.
+    · Responsible for creating the layout of front-end web page including data flow map, subquery, case statement and sidebar.
+    · Responsible for build backend functions including upload, search, filter, color, size for data flow map; upload, parse subquery and case statement for subquery and case statement pages; upload and filter functions for data catalog page.
+    · Responsible for fix bugs and improve the code structure and page layout.
+    · Responsible for improve the function efficiency such as search function.
+    · Responsible for project deployment.
+    · Responsible for completing the README of the project, design the install and get started instruction for users and basic introducation of the project. performing environment testing in a virtual environment by following the README instructions shown in GitHub.
+    · Major contributor in documentation work including milestone report, testing plan and poster.
+
+
+2.Github:	
+    · At the first few weeks, my code mainly focus on extracting comment, subquery and case statement from the SQL scripts, which can be found in Team-19/frontend/jaal/jaal/lineage.py.
+    · Then focus on build frontend page and backend callback functions including:
+        · layout of the data flow map, subquery, case statement, data catalog, sidebar:
+             · Team-19/frontend/jaal/jaal_call.py
+             · Team-19/frontend/jaal/jaal/layout.py
+        · Backend functions including upload, search, filter, color, size functions for data flow map; upload, parse subquery and case statement functions for subquery and case statement pages; upload and filter functions for data catalog page:
+             · Team-19/frontend/jaal/jaal/jaal.py
+             · Team-19/frontend/jaal/jaal/lineage.py
+             · Team-19/frontend/jaal/jaal_call.py
+    · Also work on improving code structure and fix bugs on above files.
+    · Also work on the README file to of the project in GitHub to design the install and get started instruction for users and basic introducation of the project, which can be found in:
+        · Team-19/README.md
+    · Also edit the file listing required packages to make sure it could run at another computer smoothly with simple command:
+        · Team-19/frontend/jaal/requirements.txt.
+    · All the code were committed to the master branch.
+    · Documentation work is saved at:
+        · Team-19/project_management/
+
+
+3.Project effort
+    · Total: 358 hours (totally 13 weeks, from week2 to week12, including two weeks of mid-break)
+    · Average: 27.5 hours

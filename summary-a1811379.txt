@@ -1,0 +1,35 @@
+1.Roles:	
+· Be a large part of the code contributor of the project.
+· Provider of alternate solutions including open source tools, code format conversion algorithm (etc.) during project development.
+· Responsible for display of front-end web page including subquery and case statement pages.
+· Responsible for optimize the layout of front-end web page including subquery, case statement and sidebar.
+· Responsible for build back-end functions including upload function, subquery extraction, join statement extraction; Build data catalog page; Encapsulate and integrate  back end funciton.
+· Responsible for fix bugs and improve the code structure and page layout.
+· Responsible for improve the function efficiency such as hover function.
+· Responsible for project deployment.
+· Contribute in documentation work including milestone report, testing plan and poster presentation.
+· Main contributer participating in coding work.
+
+
+2.Github:	
+    · At the first few weeks, my code mainly focus on extracting comment, subquery, join statement and case statement from the SQL scripts, which can be found in Team-19/frontend/jaal/jaal/lineage.py.
+    · Then focus on design, build frontend page and backend callback functions including:
+        · layout of subquery, case statement, data catalog, sidebar:
+             - Team-19/frontend/jaal/jaal_call.py
+             - Team-19/frontend/jaal/jaal/layout.py
+        · Backend functions including upload functions for data flow map; upload, parse subquery and case statement functions for subquery and case statement pages; build
+ major code for data catalog page; Implementing the hover function of subquery and case statement cards:
+             - Team-19/frontend/jaal/jaal/jaal.py
+             - Team-19/frontend/jaal/jaal/lineage.py
+             - Team-19/frontend/jaal/jaal_call.py
+		· Alternate algorithm solution to convert csv to json
+			-Team-19/frontend/dataLineage/(shelton branch)
+    · Also work on improving code structure and fix bugs on above files.
+    · All the code were committed to the master branch.
+    · Our documentation work is saved at:
+        · Team-19/project_management/
+
+
+3.Project effort
+    · Total: 396 hours (totally 13 weeks, from week2 to week12, including two weeks of mid-break)
+    · Average: 30.5 hours

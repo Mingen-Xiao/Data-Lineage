@@ -1,0 +1,36 @@
+1.Roles:	
+    · Chairman for 5th ,6th, 7th, 8th, 10th client meetings and prepared agendas for these meetings.
+    · Secretary for 1st, 2th, 3rd, 4th, 9th, 11th client meetings and responsible for minutes of these meetings.
+    · Responsible for creating front-end web page.
+    · Responsible for building data flow map
+    · Responsible for creating navigation bar, with navigation buttons and input files uploading buttons.
+    · Responsible for optimising most of the functionalities, such as searching, mouse hover event and separating objects by color.
+    · Responsible for designing and optimising main page contents, such as the distribution of the side bar and the map, the layout of the side bar and the network layout of the data flow map.
+    · Responsible for project deployment.
+    · Responsible for completing the README of the project, performing project testing in a new OS platform by following the README instructions shown in GitHub, and keep optimising the operating conditions until making the project execute in different platforms successfully.
+    · Main contributer participating in documentation work, especially the correction of overall grammar, paragraph structure and code run-time optimisation.
+
+
+2.Github:	
+    · At the first few weeks, my codes was independent html, javascript and css files containing the core structure design for the main front-end page.
+    · Since the team found it easier to continue the project by using python, my code was changed to independent python files containing the structure design for the main front-end page and the core functionalities on data visualisation. These files could be found in:
+        · Team-19/frontend/jaal/
+    · In the rest of the weeks, my codes was mainly focus on function design and optimisation, layout design and optimisation, and project optimisation. In particular, the main independent components were saved at:
+        · Team-19/frontend/jaal/jaal_call.py
+        · Team-19/frontend/jaal/jaal/jaal.py
+        · Team-19/frontend/jaal/jaal/layout.py
+    · At the final week, my code work was mostly for the README of the project in GitHub, where independent components were saved at:
+        · Team-19/README.md
+    · Before the end of completing the project, I performed project testings in a new OS platform and keep optimising the execution file until the project worked successfully in different platforms. The independent component saved at:
+        · Team-19/frontend/jaal/requirements.txt.
+    · All input data needs to be uploaded by the user, the following csv files were only for the default sample display for every first-time web page operation:
+        · Team-19/frontend/jaal/node.csv
+        · Team-19/frontend/jaal/edge.csv
+    · All the code were committed to the master branch.
+    · Documentation work is saved at:
+        · Team-19/project_management/
+
+
+3.Project effort
+    · Total: 399 hours (totally 13 weeks, from week2 to week12, including two weeks of mid-break)
+    · Average: 30.7 hours
